@@ -23,63 +23,63 @@
 
   "More":
   [
-    {
+        {
       "id": 1,
-      "title": "I",
-      "image": "",
-      "link": ""
+      "title": "Fake Call Cewek Indomaret",
+      "image": "file:///android_asset/image/indomaretgambar1.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.cewek.indomaret"
 
     }
   ],
   "Item": [
     {
       "id": 0,
-      "name": "cewek indomaret",
-      "image_url": "file:///android_asset/image/indomaretgambar1.png",
-      "video_url": "indomaretvidio1",
-      "voice_url": "indomaretsuara1.mp3"
+      "name": "Prank Pacar",
+      "image_url": "file:///android_asset/image/prankpacar1.png",
+      "video_url": "prankpacarvidio1",
+      "voice_url": "prankpacarsuara1.mp3"
     },
     {
       "id": 1,
-      "name": "cewek indomaret",
-      "image_url": "file:///android_asset/image/indomaretgambar2.png",
-      "video_url": "indomaretvidio2",
-      "voice_url": "indomaretsuara2.mp3"
+      "name": "Prank Pacar",
+      "image_url": "file:///android_asset/image/prankpacar2.png",
+      "video_url": "prankpacarvidio2",
+      "voice_url": "prankpacarsuara2.mp3"
     },
     {
       "id": 2,
-      "name": "Jeon Jungkook",
-      "image_url": "file:///android_asset/image/indomaretgambar3.png",
-      "video_url": "indomaretvidio3",
-      "voice_url": "indomaretsuara3.mp3"
+      "name": "Prank Pacar",
+      "image_url": "file:///android_asset/image/prankpacar3.png",
+      "video_url": "prankpacarvidio3",
+      "voice_url": "prankpacarsuara3.mp3"
     },
     {
       "id": 3,
-      "name": "cewek indomaret",
-      "image_url": "file:///android_asset/image/indomaretgambar4.png",
-      "video_url": "indomaretvidio4",
-      "voice_url": "indomaretsuara4.mp3"
+      "name": "Prank Pacar",
+      "image_url": "file:///android_asset/image/prankpacar4.png",
+      "video_url": "prankpacarvidio4",
+      "voice_url": "prankpacarsuara4.mp3"
     },
     {
       "id": 4,
-      "name": "cewek indomaret",
-      "image_url": "file:///android_asset/image/indomaretgambar5.png",
-      "video_url": "indomaretvidio1",
-      "voice_url": "indomaretsuara1.mp3"
+      "name": "Prank Pacar",
+      "image_url": "file:///android_asset/image/prankpacar5.png",
+      "video_url": "prankpacarvidio5",
+      "voice_url": "prankpacarsuara5.mp3"
     },
     {
       "id": 5,
-      "name": "cewek indomaret",
-      "image_url": "file:///android_asset/image/indomaretgambar6.png",
-      "video_url": "indomaretvidio2",
-      "voice_url": "indomaretsuara2.mp3"
+      "name": "Prank Pacar",
+      "image_url": "file:///android_asset/image/prankpacar6.png",
+      "video_url": "prankpacarvidio6",
+      "voice_url": "prankpacarsuara6.mp3"
     },
     {
       "id": 6,
-      "name": "cewek indomaret",
-      "image_url": "file:///android_asset/image/indomaretgambar7.png",
-      "video_url": "indomaretvidio3",
-      "voice_url": "indomaretsuara3.mp3"
+      "name": "Prank Pacar",
+      "image_url": "file:///android_asset/image/prankpacar7.png",
+      "video_url": "prankpacarvidio7",
+      "voice_url": "prankpacarsuara7.mp3"
     }
   ]
 }
