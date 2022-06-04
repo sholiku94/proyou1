@@ -1,0 +1,105 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": ,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More": [
+    {
+      "id": 1,
+      "title": "Fake Call Woko Channel",
+      "image": "file:///android_asset/image/woko.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.woko.channel"
+
+    },
+    {
+      "id":2,
+      "title":"Panggilan Palsu Prank Pacar",
+      "image":"file:///android_asset/image/prankpacar.png",
+      "link":"https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.prank.pacar"
+    },
+    {
+      "id": 3,
+      "title": "Panggilan Palsu Cewek Jepang",
+      "image": "file:///android_asset/image/Jepang.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.cewek.jepang"
+    },
+    {
+      "id": 4,
+      "title": "Panggilan Palsu Cewek Korea",
+      "image": "file:///android_asset/image/cewekkorea.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.cewek.korea"
+    },
+	{
+      "id": 5,
+      "title": "Panggilan Palsu Sama Pocong",
+      "image": "file:///android_asset/image/pocong.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.cewek.korea"
+    },
+    {  "id": 6,
+      "title": "Panggilan Palsu Cowok Prank Pacar",
+      "image": "file:///android_asset/image/cowokganteng.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.cewek.korea"}
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Fake Call Cewek India",
+      "image_url": "file:///android_asset/image/indiagambar1.png",
+      "video_url": "indiangirls1",
+      "voice_url": "suaraindiangirls1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Fake Call Cewek India",
+      "image_url": "file:///android_asset/image/indiagambar2.png",
+      "video_url": "indiangirls2",
+      "voice_url": "suaraindiangirls2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Fake Call Cewek India",
+      "image_url": "file:///android_asset/image/indiagambar3.png",
+      "video_url": "indiangirls3",
+      "voice_url": "suaraindiangirls3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Fake Call Cewek India",
+      "image_url": "file:///android_asset/image/indiagambar4.png",
+      "video_url": "indiangirls4",
+      "voice_url": "suaraindiangirls4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Fake Call Cewek India",
+      "image_url": "file:///android_asset/image/indiagambar5.png",
+      "video_url": "indiangirls5",
+      "voice_url": "suaraindiangirls65.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Fake Call Cewek India",
+      "image_url": "file:///android_asset/image/indiagambar6.png",
+      "video_url": "indiangirls6",
+      "voice_url": "suaraindiangirls6.mp3"
+    }
+  ]
+}
