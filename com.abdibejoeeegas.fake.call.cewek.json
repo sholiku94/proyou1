@@ -1,0 +1,85 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "ca-app-pub-7113257690559728/1663112406",
+      "main_ads_intertitial":"ca-app-pub-7113257690559728/5275603092",
+      "native_for_admob":"ca-app-pub-7113257690559728/1336358085",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial":"3" ,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+        {
+      "id": 1,
+      "title": "Fake Call Cewek Indomaret",
+      "image": "file:///android_asset/image/indomaretgambar1.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.cewek.indomaret"
+
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Prank Pacar",
+      "image_url": "file:///android_asset/image/prankpacar1.png",
+      "video_url": "prankpacarvidio1",
+      "voice_url": "prankpacarsuara1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Prank Pacar",
+      "image_url": "file:///android_asset/image/prankpacar2.png",
+      "video_url": "prankpacarvidio2",
+      "voice_url": "prankpacarsuara2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Prank Pacar",
+      "image_url": "file:///android_asset/image/prankpacar3.png",
+      "video_url": "prankpacarvidio3",
+      "voice_url": "prankpacarsuara3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Prank Pacar",
+      "image_url": "file:///android_asset/image/prankpacar4.png",
+      "video_url": "prankpacarvidio4",
+      "voice_url": "prankpacarsuara4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Prank Pacar",
+      "image_url": "file:///android_asset/image/prankpacar5.png",
+      "video_url": "prankpacarvidio5",
+      "voice_url": "prankpacarsuara5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Prank Pacar",
+      "image_url": "file:///android_asset/image/prankpacar6.png",
+      "video_url": "prankpacarvidio6",
+      "voice_url": "prankpacarsuara6.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Prank Pacar",
+      "image_url": "file:///android_asset/image/prankpacar7.png",
+      "video_url": "prankpacarvidio7",
+      "voice_url": "prankpacarsuara7.mp3"
+    }
+  ]
+}
