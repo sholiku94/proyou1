@@ -1,0 +1,105 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial":"" ,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+    {
+      "id": 1,
+      "title": "Fake Call Woko Channel",
+      "image": "file:///android_asset/image/woko.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.woko.channel"
+
+    },
+    {
+      "id":2,
+      "title":"Fake Call With Indian Girl",
+      "image":"file:///android_asset/image/indiagirl.png",
+      "link":"https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.with.indian.girl"
+    },
+    {
+      "id": 3,
+      "title": "Fake Call With Thailand Girl",
+      "image": "file:///android_asset/image/thailand.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.girl.thailand"
+    },
+    {
+      "id": 4,
+      "title": "Panggilan Palsu Cowok Korea",
+      "image": "file:///android_asset/image/cowokkorea.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.cowok.korea.ganteng"
+    },
+	{
+      "id": 5,
+      "title": "Panggilan Palsu Sama Pocong",
+      "image": "file:///android_asset/image/pocong.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.sama.pocong.lucu"
+    },
+    {  "id": 6,
+      "title": "Panggilan Palsu Cowok Prank Pacar",
+      "image": "file:///android_asset/image/cowokganteng.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.cowok.prank.pacar"}
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Fake Call Cowok Thailand",
+      "image_url": "file:///android_asset/image/gambarcowokthailand1.png",
+      "video_url": "cowokthailand1",
+      "voice_url": "suaracowokthailand1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Fake Call Cowok Thailand",
+      "image_url": "file:///android_asset/image/gambarcowokthailand2.png",
+      "video_url": "cowokthailand2",
+      "voice_url": "suaracowokthailand2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Fake Call Cowok Thailand",
+      "image_url": "file:///android_asset/image/gambarcowokthailand3.png",
+      "video_url": "cowokthailand3",
+      "voice_url": "suaracowokthailand3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Fake Call Cowok Thailand",
+      "image_url": "file:///android_asset/image/gambarcowokthailand4.png",
+      "video_url": "cowokthailand4",
+      "voice_url": "suaracowokthailand4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Fake Call Cowok Thailand",
+      "image_url": "file:///android_asset/image/gambarcowokthailand5.png",
+      "video_url": "cowokthailand5",
+      "voice_url": "suaracowokthailand5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Fake Call Thailand",
+      "image_url": "file:///android_asset/image/gambarcowokthailand6.png",
+      "video_url": "cowokthailand6",
+      "voice_url": "suaracowokthailand6.mp3"
+    }
+  ]
+}
