@@ -1,0 +1,105 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial":"" ,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+    {
+      "id": 1,
+      "title": "Fake Call Woko Channel",
+      "image": "file:///android_asset/image/woko.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.woko.channel"
+
+    },
+    {
+      "id":2,
+      "title":"Fake Call With Indian Girl",
+      "image":"file:///android_asset/image/indiagirl.png",
+      "link":"https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.with.indian.girl"
+    },
+    {
+      "id": 3,
+      "title": "Panggilan Palsu Cowok Korea",
+      "image": "file:///android_asset/image/cowokkorea.png",
+      "link": "https://play.google.com/store/apps/details?id=ccom.abdibejoeeegas.fake.call.cowok.korea.ganteng"
+    },
+    {
+      "id": 4,
+      "title": "Panggilan Palsu Cowok Thailand",
+      "image": "file:///android_asset/image/cowokthailand.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.cowok.thailand"
+    },
+	{
+      "id": 5,
+      "title": "Panggilan Palsu Sama Ukhti",
+      "image": "file:///android_asset/image/ukhtiakhwat.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.akhwat.ukhti.panggilan.palsu"
+    },
+    {  "id": 6,
+      "title": "Panggilan Palsu Putih Abu Abu",
+      "image": "file:///android_asset/image/prankcowok.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.sama.putih.abu.abu"}
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Fake Call Cewek Gamer",
+      "image_url": "file:///android_asset/image/gambargamer1.png",
+      "video_url": "cewekgamer1",
+      "voice_url": "suaracewekgamer1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Fake Call Cewek Gamer",
+      "image_url": "file:///android_asset/image/gambargamer2.png",
+      "video_url": "cewekgamer2",
+      "voice_url": "suaracewekgamer2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Fake Call Cewek Gamer",
+      "image_url": "file:///android_asset/image/gambargamer3.png",
+      "video_url": "cewekgamer3",
+      "voice_url": "suaracewekgamer3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Fake Call Cewek Gamer",
+      "image_url": "file:///android_asset/image/gambargamer4.png",
+      "video_url": "cewekgamer4",
+      "voice_url": "suaracewekgamer4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Fake Call Cewek Gamer",
+      "image_url": "file:///android_asset/image/gambargamer5.png",
+      "video_url": "cewekgamer5",
+      "voice_url": "suaracewekgamer5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Fake Call Cewek Gamer",
+      "image_url": "file:///android_asset/image/gambargamer6.png",
+      "video_url": "cewekgamer6",
+      "voice_url": "suaracewekgamer6.mp3"
+    }
+  ]
+}
