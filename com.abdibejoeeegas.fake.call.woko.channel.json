@@ -1,0 +1,105 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "ca-app-pub-7113257690559728/6740861456",
+      "main_ads_intertitial":"ca-app-pub-7113257690559728/9798532964",
+      "native_for_admob":"ca-app-pub-7113257690559728/5667716262",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial":"3" ,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+    {
+      "id": 1,
+      "title": "Fake Call Cewek Indomaret",
+      "image": "file:///android_asset/image/indomaret.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.cewek.indomaret"
+
+    },
+    {
+      "id":2,
+      "title":"Panggilan Palsu Prank Pacar",
+      "image":"file:///android_asset/image/prankpacar.png",
+      "link":"https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.prank.pacar"
+    },
+    {
+      "id": 3,
+      "title": "Panggilan Palsu Cewek Jepang",
+      "image": "file:///android_asset/image/Jepang.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.cewek.jepang"
+    },
+    {
+      "id": 4,
+      "title": "Panggilan Palsu Cewek Korea",
+      "image": "file:///android_asset/image/cewekkorea.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.cewek.korea"
+    },
+	{
+      "id": 5,
+      "title": "Panggilan Palsu Sama Pocong",
+      "image": "file:///android_asset/image/pocong.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.cewek.korea"
+    },
+    {  "id": 6,
+      "title": "Panggilan Palsu Cowok Prank Pacar",
+      "image": "file:///android_asset/image/cowokganteng.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.cewek.korea"}
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Woko Channel Fake Call",
+      "image_url": "file:///android_asset/image/penyokgambar.png",
+      "video_url": "penyokvidio",
+      "voice_url": "penyoksuara.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Woko Channel Fake Call",
+      "image_url": "file:///android_asset/image/paknogambar.png",
+      "video_url": "paknovidio",
+      "voice_url": "paknosuara.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Woko Channel Fake Call",
+      "image_url": "file:///android_asset/image/pakndutgambar.png",
+      "video_url": "pakndutvidio",
+      "voice_url": "pakndutsuara.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Woko Channel Fake Call",
+      "image_url": "file:///android_asset/image/mukidigambar.png",
+      "video_url": "mukidividio",
+      "voice_url": "mukidisuara.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Woko Channel Fake Call",
+      "image_url": "file:///android_asset/image/mbakninidgambar.png",
+      "video_url": "mbaknonikvidio",
+      "voice_url": "mbaknoniksuara.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Woko Channel Fake Call",
+      "image_url": "file:///android_asset/image/mbakmintulgambar.png",
+      "video_url": "mbakmintulvidio",
+      "voice_url": "mbakmintulsuara.mp3"
+    }
+  ]
+}
