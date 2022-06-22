@@ -1,0 +1,105 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial":"" ,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+    {
+      "id": 1,
+      "title": "Fake Call Jefri Nichol",
+      "image": "file:///android_asset/image/jefrinichol.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.jefri.nichol.fake.call"
+
+    },
+    {
+      "id":2,
+      "title":"Fake Call Gabriel Prince",
+      "image":"file:///android_asset/image/gabrielprince.png",
+      "link":"https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.sama.gabriel.prince"
+    },
+    {
+      "id": 3,
+      "title": "Panggilan Palsu Livy Renata",
+      "image": "file:///android_asset/image/livyrenata.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.livy.renata.fake.video.call"
+    },
+    {
+      "id": 4,
+      "title": "Panggilan Palsu Melur Untuk Firdaus",
+      "image": "file:///android_asset/image/melurfirdaus.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.melur.untuk.firdaus"
+    },
+	{
+      "id": 5,
+      "title": "Panggilan Palsu Anna Jobling",
+      "image": "file:///android_asset/image/annajobling.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.melur.anna.jobling"
+    },
+    {  "id": 6,
+      "title": "Panggilan Palsu Unaa",
+      "image": "file:///android_asset/image/unaa.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.unaa.fake.video.call"}
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Fake Call Iqbaal Ramadhan" ,
+      "image_url": "file:///android_asset/image/gambariqbalramadhan1.png",
+      "video_url": "iqbalramadhan1",
+      "voice_url": "suaraiqbalramadhan1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Fake Call Iqbaal Ramadhan",
+      "image_url": "file:///android_asset/image/gambariqbalramadhan2.png",
+      "video_url": "iqbalramadhan2",
+      "voice_url": "suaraiqbalramadhan2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Fake Call Iqbaal Ramadhan",
+      "image_url": "file:///android_asset/image/gambariqbalramadhan3.png",
+      "video_url": "iqbalramadhan3",
+      "voice_url": "suaraiqbalramadhan3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Fake Call Iqbaal Ramadhan",
+      "image_url": "file:///android_asset/image/gambariqbalramadhan4.png",
+      "video_url": "iqbalramadhan4",
+      "voice_url": "suaraiqbalramadhan4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Fake Call Iqbaal Ramadhan",
+      "image_url": "file:///android_asset/image/gambariqbalramadhan5.png",
+      "video_url": "iqbalramadhan5",
+      "voice_url": "suaraiqbalramadhan5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Fake Call Iqbaal Ramadhan",
+      "image_url": "file:///android_asset/image/gambariqbalramadhan6.png",
+      "video_url": "iqbalramadhan6",
+      "voice_url": "suaraiqbalramadhan6.mp3"
+    }
+  ]
+}
