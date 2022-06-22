@@ -1,0 +1,84 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "ca-app-pub-7113257690559728/1663112406",
+      "main_ads_intertitial":"ca-app-pub-7113257690559728/5275603092",
+      "native_for_admob":"ca-app-pub-7113257690559728/1336358085",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial":"" ,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+    {
+      "id": 1,
+      "title": "Cewek Indomaret",
+      "image": "file:///android_asset/image/indomaretgambar1.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.cewek.indomaret"
+
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "cewek indomaret",
+      "image_url": "file:///android_asset/image/indomaretgambar1.png",
+      "video_url": "indomaretvidio1",
+      "voice_url": "indomaretsuara1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "cewek indomaret",
+      "image_url": "file:///android_asset/image/indomaretgambar2.png",
+      "video_url": "indomaretvidio2",
+      "voice_url": "indomaretsuara2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Jeon Jungkook",
+      "image_url": "file:///android_asset/image/indomaretgambar3.png",
+      "video_url": "indomaretvidio3",
+      "voice_url": "indomaretsuara3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "cewek indomaret",
+      "image_url": "file:///android_asset/image/indomaretgambar4.png",
+      "video_url": "indomaretvidio4",
+      "voice_url": "indomaretsuara4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "cewek indomaret",
+      "image_url": "file:///android_asset/image/indomaretgambar5.png",
+      "video_url": "indomaretvidio1",
+      "voice_url": "indomaretsuara1.mp3"
+    },
+    {
+      "id": 5,
+      "name": "cewek indomaret",
+      "image_url": "file:///android_asset/image/indomaretgambar6.png",
+      "video_url": "indomaretvidio2",
+      "voice_url": "indomaretsuara2.mp3"
+    },
+    {
+      "id": 6,
+      "name": "cewek indomaret",
+      "image_url": "file:///android_asset/image/indomaretgambar7.png",
+      "video_url": "indomaretvidio3",
+      "voice_url": "indomaretsuara3.mp3"
+    }
+  ]
+}
