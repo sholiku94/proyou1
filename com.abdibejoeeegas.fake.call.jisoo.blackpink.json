@@ -1,0 +1,106 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial":"" ,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "Fake Call Reza Rahardian",
+      "image": "file:///android_asset/image/rezarahardian.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.rezarahardian.fake.video.call"
+
+    },
+    {
+      "id":2,
+      "title":"Fake Call With Firdaus Meerqeen",
+      "image":"file:///android_asset/image/firdausmeerqen.png",
+      "link":"https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.firdaus.meerqeen"
+    },
+    {
+      "id": 3,
+      "title": "Panggilan Palsu Jefri Nichol",
+      "image": "file:///android_asset/image/jefrinichol.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.jefri.nichol.fake.call"
+    },
+    {
+      "id": 4,
+      "title": "Panggilan Palsu Al Ghazali",
+      "image": "file:///android_asset/image/alghazali.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.alghazali.fake.video.call"
+    },
+	{
+      "id": 5,
+      "title": "Panggilan Palsu Not Not",
+      "image": "file:///android_asset/image/notnot.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.n.lidiawaty.not.not"
+    },
+    {  "id": 6,
+      "title": "Panggilan Palsu Unaa",
+      "image": "file:///android_asset/image/unaa.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.unaa.fake.video.call"}
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Fake Call Jisoo BlackPink" ,
+      "image_url": "file:///android_asset/image/gambarjisooblackpink1.png",
+      "video_url": "jisooblackpink1",
+      "voice_url": "suarajisooblackpink1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Fake Call Jisoo BlackPink",
+      "image_url": "file:///android_asset/image/gambarjisooblackpink2.png",
+      "video_url": "jisooblackpink2",
+      "voice_url": "suarajisooblackpink2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Fake Call Jisoo BlackPink",
+      "image_url": "file:///android_asset/image/gambarjisooblackpink3.png",
+      "video_url": "jisooblackpink3",
+      "voice_url": "suarajisooblackpink3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Fake Call Jisoo BlackPink",
+      "image_url": "file:///android_asset/image/gambarjisooblackpink4.png",
+      "video_url": "jisooblackpink4",
+      "voice_url": "suarajisooblackpink4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Fake Call Jisoo BlackPink",
+      "image_url": "file:///android_asset/image/gambarjisooblackpink5.png",
+      "video_url": "jisooblackpink5",
+      "voice_url": "suarajisooblackpink5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Fake Call Jisoo BlackPink",
+      "image_url": "file:///android_asset/image/gambarjisooblackpink6.png",
+      "video_url": "jisooblackpink6",
+      "voice_url": "suarajisooblackpink6.mp3"
+    }
+  ]
+}
