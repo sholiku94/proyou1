@@ -1,0 +1,106 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial":"" ,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "Fake Call Shivangi Joshi",
+      "image": "file:///android_asset/image/shivangijoshi.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.shivangi.joshi.fake.call.prank"
+
+    },
+    {
+      "id":2,
+      "title":"Fake Call With Cewek Hijaber",
+      "image":"file:///android_asset/image/cewekhijaber.png",
+      "link":"https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.cewek.hijaber"
+    },
+    {
+      "id": 3,
+      "title": "Panggilan Palsu Tante Cantik",
+      "image": "file:///android_asset/image/tantecantik.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.panggilan.palsu.tante.cantik"
+    },
+    {
+      "id": 4,
+      "title": "Fake Call Rose BlackPink",
+      "image": "file:///android_asset/image/rose.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.rose.blackpink"
+    },
+	{
+      "id": 5,
+      "title": "Fake Call Lisa BlackPink",
+      "image": "file:///android_asset/image/lisa.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.lisa.blacpink"
+    },
+    {  "id": 6,
+      "title": "Fake Call With BlackPink",
+      "image": "file:///android_asset/image/jisoo.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.with.blackpink"}
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Fake Call Arinaga Family" ,
+      "image_url": "file:///android_asset/image/arinagagambar1.png",
+      "video_url": "arinagafamily1",
+      "voice_url": "suaraarinaga1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Fake Call Arinaga Family",
+      "image_url": "file:///android_asset/image/arinagagambar2.png",
+      "video_url": "arinagafamily2",
+      "voice_url": "suaraarinagai2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Fake Call Arinaga Familyi",
+      "image_url": "file:///android_asset/image/arinagagambar3.png",
+      "video_url": "arinagafamily3",
+      "voice_url": "suaraarinaga3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Fake Call Arinaga Family",
+      "image_url": "file:///android_asset/image/arinagagambar4.png",
+      "video_url": "arinagafamily4",
+      "voice_url": "suaraarinaga4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Fake Call Arinaga Family",
+      "image_url": "file:///android_asset/image/arinagagambar5.png",
+      "video_url": "arinagafamily5",
+      "voice_url": "suaraarinaga5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Fake Call Arinaga Family",
+      "image_url": "file:///android_asset/image/arinagagambar6.png",
+      "video_url": "arinagafamily6",
+      "voice_url": "suaraarinaga6.mp3"
+    }
+  ]
+}
