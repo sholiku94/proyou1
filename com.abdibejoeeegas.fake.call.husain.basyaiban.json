@@ -1,0 +1,106 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial":"" ,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "Fake Call Shivangi Joshi",
+      "image": "file:///android_asset/image/shivangijoshi.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.shivangi.joshi.fake.call.prank"
+
+    },
+    {
+      "id":2,
+      "title":"Fake Call Arinaga Family",
+      "image":"file:///android_asset/image/arinaga.png",
+      "link":"https://play.google.com/store/apps/details?id=com.abdibejoeeegas.arinaga.family.fake.call.prank"
+    },
+    {
+      "id": 3,
+      "title": "Panggilan Palsu Bila indarwati",
+      "image": "file:///android_asset/image/bilaindarwati.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.bila.indarwati"
+    },
+    {
+      "id": 4,
+      "title": "Fake Call Rose BlackPink",
+      "image": "file:///android_asset/image/rose.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.rose.blackpink"
+    },
+	{
+      "id": 5,
+      "title": "Fake Call Lisa BlackPink",
+      "image": "file:///android_asset/image/lisa.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.lisa.blacpink"
+    },
+    {  "id": 6,
+      "title": "Fake Call With BlackPink",
+      "image": "file:///android_asset/image/blackpink.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.with.blackpink"}
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Fake Call Husain Basyaiban" ,
+      "image_url": "file:///android_asset/image/husaingambar1.png",
+      "video_url": "husainbasyaiban1",
+      "voice_url": "suarahusain1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Fake Call Husain Basyaiban",
+      "image_url": "file:///android_asset/image/husaingambar2.png",
+      "video_url": "husainbasyaiban2",
+      "voice_url": "suarahusain2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Fake Call Husain Basyaiban",
+      "image_url": "file:///android_asset/image/husaingambar3.png",
+      "video_url": "husainbasyaiban3",
+      "voice_url": "suarahusain3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Fake Call Husain Basyaiban",
+      "image_url": "file:///android_asset/image/husaingambar4.png",
+      "video_url": "husainbasyaiban4",
+      "voice_url": "suarahusain4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Fake Call Husain Basyaiban",
+      "image_url": "file:///android_asset/image/husaingambar5.png",
+      "video_url": "husainbasyaiban5",
+      "voice_url": "suarahusain5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Fake Call Husain Basyaiban",
+      "image_url": "file:///android_asset/image/husaingambar6.png",
+      "video_url": "husainbasyaiban6",
+      "voice_url": "suarahusain6.mp3"
+    }
+  ]
+}
