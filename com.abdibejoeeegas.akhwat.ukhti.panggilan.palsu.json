@@ -1,0 +1,106 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "ca-app-pub-7113257690559728/6638185998",
+      "main_ads_intertitial":"ca-app-pub-7113257690559728/6619108345",
+      "native_for_admob":"ca-app-pub-7113257690559728/3665356532",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial":"5" ,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "Fake Call Woko Channel",
+      "image": "file:///android_asset/image/woko.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.woko.channel"
+
+    },
+    {
+      "id":2,
+      "title":"Fake Call With Indian Girl",
+      "image":"file:///android_asset/image/indiagirl.png",
+      "link":"https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.with.indian.girl"
+    },
+    {
+      "id": 3,
+      "title": "Panggilan Palsu Cowok Korea",
+      "image": "file:///android_asset/image/cowokkorea.png",
+      "link": "https://play.google.com/store/apps/details?id=ccom.abdibejoeeegas.fake.call.cowok.korea.ganteng"
+    },
+    {
+      "id": 4,
+      "title": "Panggilan Palsu Cowok Thailand",
+      "image": "file:///android_asset/image/cowokthailand.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.cowok.thailand"
+    },
+	{
+      "id": 5,
+      "title": "Panggilan Palsu Sama Pocong",
+      "image": "file:///android_asset/image/pocong.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.cewek.korea"
+    },
+    {  "id": 6,
+      "title": "Panggilan Palsu Cowok Prank Pacar",
+      "image": "file:///android_asset/image/prankcowok.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.cewek.korea"}
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Fake Call Akhwat & Ukhti",
+      "image_url": "file:///android_asset/image/gambarukhticantik1.png",
+      "video_url": "ukhticantik1",
+      "voice_url": "suaraukhticantik1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Fake Call Akhwat & Ukhti",
+      "image_url": "file:///android_asset/image/gambarukhticantik2.png",
+      "video_url": "ukhticantik2",
+      "voice_url": "suaraukhticantik2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Fake Call Akhwat & Ukhti",
+      "image_url": "file:///android_asset/image/gambarukhticantik3.png",
+      "video_url": "ukhticantik3",
+      "voice_url": "suaraukhticantik3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Fake Call Akhwat & Ukhti",
+      "image_url": "file:///android_asset/image/gambarukhticantik4.png",
+      "video_url": "ukhticantik4",
+      "voice_url": "suaraukhticantik4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Fake Call Akhwat & Ukhti",
+      "image_url": "file:///android_asset/image/gambarukhticantik5.png",
+      "video_url": "ukhticantik5",
+      "voice_url": "suaraukhticantik5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Fake Call Akhwat & Ukhti",
+      "image_url": "file:///android_asset/image/gambarukhticantik6.png",
+      "video_url": "ukhticantik6",
+      "voice_url": "suaraukhticantik6.mp3"
+    }
+  ]
+}
