@@ -1,0 +1,90 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "ca-app-pub-7113257690559728/6550556086",
+      "main_ads_intertitial":"ca-app-pub-7113257690559728/5222266192",
+      "native_for_admob":"ca-app-pub-7113257690559728/4044915899",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial":"5" ,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "Fake Call Cewek Indomaret",
+      "image": "file:///android_asset/image/indomaret.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.cewek.indomaret"
+
+    },
+    {
+      "id":2,
+      "title":"Panggilan Palsu Prank Pacar",
+      "image":"file:///android_asset/home.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.prank.pacar"
+    },
+    {
+      "id": 3,
+      "title": "Panggilan Palsu Cewek Jepang",
+      "image": "file:///android_asset/home.webp",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.cewek.jepang"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Fake Call Cewek Korea",
+      "image_url": "file:///android_asset/image/callcewekkorea1.png",
+      "video_url": "cewekkorea1",
+      "voice_url": "suaracewekkorea.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Fake Call Cewek Korea",
+      "image_url": "file:///android_asset/image/callcewekkorea2.png",
+      "video_url": "cewekkorea2",
+      "voice_url": "suaracewekkorea2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Fake Call Cewek Korea",
+      "image_url": "file:///android_asset/image/callcewekkorea3.png",
+      "video_url": "cewekkorea3",
+      "voice_url": "suaracewekkorea3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Fake Call Cewek Korea",
+      "image_url": "file:///android_asset/image/callcewekkorea4.png",
+      "video_url": "cewekkorea4",
+      "voice_url": "suaracewekkorea4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Fake Call Cewek Korea",
+      "image_url": "file:///android_asset/image/callcewekkorea5.png",
+      "video_url": "cewekkorea5",
+      "voice_url": "suaracewekkorea.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Fake Call Cewek Korea",
+      "image_url": "file:///android_asset/image/callcewekkorea6.png",
+      "video_url": "cewekkorea6",
+      "voice_url": "suaracewekkorea.mp3"
+    }
+  ]
+}
