@@ -1,0 +1,84 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "ca-app-pub-7113257690559728/7616209831",
+      "main_ads_intertitial":"ca-app-pub-7113257690559728/6015369463",
+      "native_for_admob":"ca-app-pub-7113257690559728/4020579759",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial":"5" ,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "Fake Call Cewek Indomaret",
+      "image": "file:///android_asset/image/indomaret.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.cewek.indomaret"
+
+    },
+    {
+      "id":2,
+      "title":"Panggilan Palsu Prank Pacar",
+      "image":"file:///android_asset/home.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.prank.pacar"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Fake Call Cewek Jepang",
+      "image_url": "file:///android_asset/image/callcewekjepang1.png",
+      "video_url": "fakecallcewekjepang1",
+      "voice_url": "callcewekjepang1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Fake Call Cewek Jepang",
+      "image_url": "file:///android_asset/image/callcewekjepang2.png",
+      "video_url": "fakecallcewekjepang2",
+      "voice_url": "callcewekjepang2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Fake Call Cewek Jepang",
+      "image_url": "file:///android_asset/image/callcewekjepang3.png",
+      "video_url": "fakecallcewekjepang3",
+      "voice_url": "callcewekjepang3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Fake Call Cewek Jepang",
+      "image_url": "file:///android_asset/image/callcewekjepang4.png",
+      "video_url": "fakecallcewekjepang4",
+      "voice_url": "callcewekjepang4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Fake Call Cewek Jepang",
+      "image_url": "file:///android_asset/image/callcewekjepang5.png",
+      "video_url": "fakecallcewekjepang5",
+      "voice_url": "callcewekjepang5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Fake Call Cewek Jepang",
+      "image_url": "file:///android_asset/image/callcewekjepang6.png",
+      "video_url": "fakecallcewekjepang6",
+      "voice_url": "callcewekjepang6.mp3"
+    }
+  ]
+}
