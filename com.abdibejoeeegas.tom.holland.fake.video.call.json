@@ -1,0 +1,106 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial":"" ,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+     {
+      "id": 1,
+      "title": "Fake Call Sourav Joshi",
+      "image": "file:///android_asset/image/souravjoshi.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.sourav.joshi"
+
+    },
+    {
+      "id":2,
+      "title":"Fake Call  Alejo Igoa",
+      "image":"file:///android_asset/image/alejoigoa.png",
+      "link":"https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.alejo.igoa"
+    },
+    {
+      "id": 3,
+      "title": "Fake Call Roman Reigns",
+      "image": "file:///android_asset/image/romanreigns.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.roman.reigns"
+    },
+    {
+      "id": 4,
+      "title": "Fake Call Paulo Dybala",
+      "image": "file:///android_asset/image/paulodybala.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.paulo.dybala"
+    },
+	{
+      "id": 5,
+      "title": "Fake Call Ninja Hattori",
+      "image": "file:///android_asset/image/ninjahattori.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.ninja.hattori"
+    },
+    {  "id": 6,
+      "title": "Fake Call Neymar",
+      "image": "file:///android_asset/image/neymar.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.neymar"}
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Fake Call Tom Holland" ,
+      "image_url": "file:///android_asset/image/tomholandgmbr1.png",
+      "video_url": "tomholland1",
+      "voice_url": "suaratomholland1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Fake Call Tom Holland",
+      "image_url": "file:///android_asset/image/tomholandgmbr2.png",
+      "video_url": "tomholland2",
+      "voice_url": "suaratomholland2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Fake Call Tom Holland",
+      "image_url": "file:///android_asset/image/tomholandgmbr3.png",
+      "video_url": "tomholland3",
+      "voice_url": "suaratomholland3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Fake Call Tom Holland",
+      "image_url": "file:///android_asset/image/tomholandgmbr4.png",
+      "video_url": "tomholland4",
+      "voice_url": "suaratomholland4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Fake Call Tom Holland",
+      "image_url": "file:///android_asset/image/tomholandgmbr5.png",
+      "video_url": "tomholland5",
+      "voice_url": "suaratomholland5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Fake Call Tom Holland",
+      "image_url": "file:///android_asset/image/tomholandgmbr6.png",
+      "video_url": "tomholland6",
+      "voice_url": "suaratomholland6.mp3"
+    }
+  ]
+}
