@@ -1,0 +1,106 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "ca-app-pub-7113257690559728/9830964153",
+      "main_ads_intertitial":"ca-app-pub-7113257690559728/8491614713",
+      "native_for_admob":"ca-app-pub-7113257690559728/6910939737",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial":"5" ,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "Fake Call Jennie",
+      "image": "file:///android_asset/image/jennie.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.jennie.kim.blackpink"
+
+    },
+    {
+      "id":2,
+      "title":"Fake Call With Cewek Hijaber",
+      "image":"file:///android_asset/image/cewekhijaber.png",
+      "link":"https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.cewek.hijaber"
+    },
+    {
+      "id": 3,
+      "title": "Panggilan Palsu Tante Cantik",
+      "image": "file:///android_asset/image/tantecantik.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.panggilan.palsu.tante.cantik"
+    },
+    {
+      "id": 4,
+      "title": "Fake Call Rose BlackPink",
+      "image": "file:///android_asset/image/rose.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.rose.blackpink"
+    },
+	{
+      "id": 5,
+      "title": "Fake Call Lisa BlackPink",
+      "image": "file:///android_asset/image/lisa.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.lisa.blacpink"
+    },
+    {  "id": 6,
+      "title": "Fake Call Jisoo",
+      "image": "file:///android_asset/image/jisoo.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.jisoo.blackpink"}
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Fake Call Thoriq & Fuji" ,
+      "image_url": "file:///android_asset/image/gmbarthoriqfuji1.png",
+      "video_url": "fujithoriq1",
+      "voice_url": "suarafujithoriq1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Fake Call Thoriq & Fuji",
+      "image_url": "file:///android_asset/image/gmbarthoriqfuji2.png",
+      "video_url": "fujithoriq2",
+      "voice_url": "suarafujithoriq2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Fake Call Thoriq & Fuji",
+      "image_url": "file:///android_asset/image/gmbarthoriqfuji3.png",
+      "video_url": "fujithoriq3",
+      "voice_url": "suarafujithoriq3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Fake Call Thoriq & Fuji",
+      "image_url": "file:///android_asset/image/gmbarthoriqfuji4.png",
+      "video_url": "fujithoriq4",
+      "voice_url": "suarafujithoriq4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Fake Call Thoriq & Fuji",
+      "image_url": "file:///android_asset/image/gmbarthoriqfuji5.png",
+      "video_url": "fujithoriq5",
+      "voice_url": "suarafujithoriq5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Fake Call Thoriq & Fuji",
+      "image_url": "file:///android_asset/image/gmbarthoriqfuji6.png",
+      "video_url": "fujithoriq6",
+      "voice_url": "suarafujithoriq6.mp3"
+    }
+  ]
+}
