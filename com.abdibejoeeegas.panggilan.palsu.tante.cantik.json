@@ -1,0 +1,106 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "ca-app-pub-7113257690559728/8907112334",
+      "main_ads_intertitial":"ca-app-pub-7113257690559728/4528883623",
+      "native_for_admob":"ca-app-pub-7113257690559728/6565123674",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial":"5" ,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "Fake Call Jennie",
+      "image": "file:///android_asset/image/jennie.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.jennie.kim.blackpink"
+
+    },
+    {
+      "id":2,
+      "title":"Fake Call With Cewek Hijaber",
+      "image":"file:///android_asset/image/cewekhijaber.png",
+      "link":"https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.cewek.hijaber"
+    },
+    {
+      "id": 3,
+      "title": "Panggilan Palsu Jefri Nichol",
+      "image": "file:///android_asset/image/jefrinichol.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.jefri.nichol.fake.call"
+    },
+    {
+      "id": 4,
+      "title": "Panggilan Palsu Al Ghazali",
+      "image": "file:///android_asset/image/alghazali.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.alghazali.fake.video.call"
+    },
+	{
+      "id": 5,
+      "title": "Panggilan Palsu Not Not",
+      "image": "file:///android_asset/image/notnot.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.n.lidiawaty.not.not"
+    },
+    {  "id": 6,
+      "title": "Fake Call Jisoo",
+      "image": "file:///android_asset/image/jisoo.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.jisoo.blackpink"}
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Fake Call sama Tante" ,
+      "image_url": "file:///android_asset/image/gambartante1.png",
+      "video_url": "videotante1",
+      "voice_url": "suaratante1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Fake Call sama Tante",
+      "image_url": "file:///android_asset/image/gambartante2.png",
+      "video_url": "videotante2",
+      "voice_url": "suaratante2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Fake Call sama Tante",
+      "image_url": "file:///android_asset/image/gambartante3.png",
+      "video_url": "videotante3",
+      "voice_url": "suaratante3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Fake Call sama Tante",
+      "image_url": "file:///android_asset/image/gambartante4.png",
+      "video_url": "videotante4",
+      "voice_url": "suaratante4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Fake Call sama Tante",
+      "image_url": "file:///android_asset/image/gambartante5.png",
+      "video_url": "videotante5",
+      "voice_url": "suaratante5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Fake Call sama Tante",
+      "image_url": "file:///android_asset/image/gambartante6.png",
+      "video_url": "videotante6",
+      "voice_url": "suaratante6.mp3"
+    }
+  ]
+}
