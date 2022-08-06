@@ -1,0 +1,106 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial":"" ,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+     {
+      "id": 1,
+      "title": "Fake Call Seol In-ah",
+      "image": "file:///android_asset/image/seolinah.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.seorina"
+
+    },
+    {
+      "id":2,
+      "title":"Fake Call Shiva",
+      "image":"file:///android_asset/image/shiva.png",
+      "link":"https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.shiva"
+    },
+    {
+      "id": 3,
+      "title": "Fake Call Creepy Momo",
+      "image": "file:///android_asset/image/creepymomo.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.prank.creepy.momo"
+    },
+    {
+      "id": 4,
+      "title": "Fake Call Paulo Dybala",
+      "image": "file:///android_asset/image/paulodybala.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.paulo.dybala"
+    },
+	{
+      "id": 5,
+      "title": "Fake Call Ninja Hattori",
+      "image": "file:///android_asset/image/ninjahattori.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.ninja.hattori"
+    },
+    {  "id": 6,
+      "title": "Fake Call Tom Holland",
+      "image": "file:///android_asset/image/tomholland.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.tom.holland.fake.video.call"}
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Fake Call Ultraman" ,
+      "image_url": "file:///android_asset/image/ultamangmbr1.png",
+      "video_url": "ultraman1",
+      "voice_url": "suaraultraman1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Fake Call Ultraman",
+      "image_url": "file:///android_asset/image/ultamangmbr2.png",
+      "video_url": "ultraman2",
+      "voice_url": "suaraultraman2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Fake Call Ultraman",
+      "image_url": "file:///android_asset/image/ultamangmbr3.png",
+      "video_url": "ultraman3",
+      "voice_url": "suaraultraman3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Fake Call Ultraman",
+      "image_url": "file:///android_asset/image/ultamangmbr4.png",
+      "video_url": "ultraman4",
+      "voice_url": "suaraultraman4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Fake Call Ultraman",
+      "image_url": "file:///android_asset/image/ultamangmbr5.png",
+      "video_url": "ultraman5",
+      "voice_url": "suaraultraman5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Fake Call Ultraman",
+      "image_url": "file:///android_asset/image/ultamangmbr6.png",
+      "video_url": "ultraman6",
+      "voice_url": "suaraultraman6.mp3"
+    }
+  ]
+}
