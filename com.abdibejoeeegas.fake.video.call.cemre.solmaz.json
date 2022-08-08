@@ -1,0 +1,106 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial":"" ,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+     {
+      "id": 1,
+      "title": "Fake Call Seol In-ah",
+      "image": "file:///android_asset/image/seolinah.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.seorina"
+
+    },
+    {
+      "id":2,
+      "title":"Fake Call Shiva",
+      "image":"file:///android_asset/image/shiva.png",
+      "link":"https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.shiva"
+    },
+    {
+      "id": 3,
+      "title": "Fake Call Creepy Momo",
+      "image": "file:///android_asset/image/creepymomo.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.prank.creepy.momo"
+    },
+    {
+      "id": 4,
+      "title": "Fake Call Ultraman",
+      "image": "file:///android_asset/image/ultraman.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.ultraman.prank"
+    },
+	{
+      "id": 5,
+      "title": "Fake Call BaalVeer",
+      "image": "file:///android_asset/image/baalveer.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.baalveer"
+    },
+    {  "id": 6,
+      "title": "Fake Call Tom Holland",
+      "image": "file:///android_asset/image/tomholland.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.tom.holland.fake.video.call"}
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Fake Call Cemre Solmaz" ,
+      "image_url": "file:///android_asset/image/gmbrcmresolmaz1.png",
+      "video_url": "cemresolmaz1",
+      "voice_url": "suaraballveer1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Fake Call Cemre Solmaz",
+      "image_url": "file:///android_asset/image/gmbrcmresolmaz2.png",
+      "video_url": "cemresolmaz2",
+      "voice_url": "sruacemresolmaz2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Fake Call Cemre Solmaz",
+      "image_url": "file:///android_asset/image/gmbrcmresolmaz3.png",
+      "video_url": "cemresolmaz3",
+      "voice_url": "sruacemresolmaz3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Fake Call Cemre Solmaz",
+      "image_url": "file:///android_asset/image/gmbrcmresolmaz4.png",
+      "video_url": "cemresolmaz4",
+      "voice_url": "sruacemresolmaz4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Fake Call Cemre Solmaz",
+      "image_url": "file:///android_asset/image/gmbrcmresolmaz5.png",
+      "video_url": "cemresolmaz5",
+      "voice_url": "sruacemresolmaz5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Fake Call Cemre Solmaz",
+      "image_url": "file:///android_asset/image/gmbrcmresolmaz6.png",
+      "video_url": "cemresolmaz6",
+      "voice_url": "sruacemresolmaz6.mp3"
+    }
+  ]
+}
