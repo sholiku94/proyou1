@@ -1,0 +1,106 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial":"" ,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+     {
+      "id": 1,
+      "title": "Fake Call Seol In-ah",
+      "image": "file:///android_asset/image/seolinah.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.seorina"
+
+    },
+    {
+      "id":2,
+      "title":"Fake Call Shiva",
+      "image":"file:///android_asset/image/shiva.png",
+      "link":"https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.shiva"
+    },
+    {
+      "id": 3,
+      "title": "Fake Call Creepy Momo",
+      "image": "file:///android_asset/image/creepymomo.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.prank.creepy.momo"
+    },
+    {
+      "id": 4,
+      "title": "Fake Call Ultraman",
+      "image": "file:///android_asset/image/ultraman.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.ultraman.prank"
+    },
+	{
+      "id": 5,
+      "title": "Fake Call BaalVeer",
+      "image": "file:///android_asset/image/baalveer.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.baalveer"
+    },
+    {  "id": 6,
+      "title": "Fake Call Cemre Solmaz",
+      "image": "file:///android_asset/image/cemresolmaz.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.cemre.solmaz"}
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Fake Call Caner Topcu" ,
+      "image_url": "file:///android_asset/image/duybenigambar1.png",
+      "video_url": "duybeni1",
+      "voice_url": "suaraduybeni1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Fake Call Caner Topcu",
+      "image_url": "file:///android_asset/image/duybenigambar2.png",
+      "video_url": "duybeni2",
+      "voice_url": "suaraduybeni2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Fake Call Caner Topcu",
+      "image_url": "file:///android_asset/image/duybenigambar3.png",
+      "video_url": "duybeni3",
+      "voice_url": "suaraduybeni3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Fake Call Caner Topcu",
+      "image_url": "file:///android_asset/image/duybenigambar4.png",
+      "video_url": "duybeni4",
+      "voice_url": "suaraduybeni4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Fake Call Caner Topcu",
+      "image_url": "file:///android_asset/image/duybenigambar5.png",
+      "video_url": "duybeni5",
+      "voice_url": "suaraduybeni5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Fake Call Caner Topcu",
+      "image_url": "file:///android_asset/image/duybenigambar6.png",
+      "video_url": "duybeni6",
+      "voice_url": "suaraduybeni6.mp3"
+    }
+  ]
+}
