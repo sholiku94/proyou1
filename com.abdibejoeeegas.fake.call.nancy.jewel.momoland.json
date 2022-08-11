@@ -1,0 +1,106 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial":"" ,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+     {
+      "id": 1,
+      "title": "Fake Call Caner Topcu Duy Beni",
+      "image": "file:///android_asset/image/duybenicanertopcu.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.duy.beni.caner.topcu"
+
+    },
+    {
+      "id":2,
+      "title":"Fake Call Kim Se-jeong",
+      "image":"file:///android_asset/image/kimsejeong.png",
+      "link":"https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.kim.sejeong"
+    },
+    {
+      "id": 3,
+      "title": "Fake Call Creepy Momo",
+      "image": "file:///android_asset/image/creepymomo.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.call.prank.creepy.momo"
+    },
+    {
+      "id": 4,
+      "title": "Fake Call Ultraman",
+      "image": "file:///android_asset/image/ultraman.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.ultraman.prank"
+    },
+	{
+      "id": 5,
+      "title": "Fake Call BaalVeer",
+      "image": "file:///android_asset/image/baalveer.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.baalveer"
+    },
+    {  "id": 6,
+      "title": "Fake Call Cemre Solmaz",
+      "image": "file:///android_asset/image/cemresolmaz.png",
+      "link": "https://play.google.com/store/apps/details?id=com.abdibejoeeegas.fake.video.call.cemre.solmaz"}
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Fake Call Nancy Momoland" ,
+      "image_url": "file:///android_asset/image/gambarnancymomoland1.png",
+      "video_url": "nancymomoland1",
+      "voice_url": "suaranancymomoland1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Fake Call Nancy Momoland",
+      "image_url": "file:///android_asset/image/gambarnancymomoland2.png",
+      "video_url": "nancymomoland2",
+      "voice_url": "suaranancymomoland2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Fake Call Nancy Momoland",
+      "image_url": "file:///android_asset/image/gambarnancymomoland3.png",
+      "video_url": "nancymomoland3",
+      "voice_url": "suaranancymomoland3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Fake Call Nancy Momoland",
+      "image_url": "file:///android_asset/image/gambarnancymomoland4.png",
+      "video_url": "nancymomoland4",
+      "voice_url": "suaranancymomoland4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Fake Call Nancy Momoland",
+      "image_url": "file:///android_asset/image/gambarnancymomoland5.png",
+      "video_url": "nancymomoland5",
+      "voice_url": "suaranancymomoland5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Fake Call Nancy Momoland",
+      "image_url": "file:///android_asset/image/gambarnancymomoland6.png",
+      "video_url": "nancymomoland6",
+      "voice_url": "suaranancymomoland6.mp3"
+    }
+  ]
+}
